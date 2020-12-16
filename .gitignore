@@ -1,5 +1,8 @@
 node_modules
 
 # VSCode
+
+# misc
 .DS_Store
 .vscode/
+package-lock.json
